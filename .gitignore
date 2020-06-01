@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/snuityio.iml
+.idea/sonarlint/
+__pycache__/
+app.py
+housecsv.csv
+ntuity/
+static/
+templates/
+venv/
